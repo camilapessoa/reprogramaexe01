@@ -1,6 +1,6 @@
 # Exercício Reprograma 01
 
-##  Framework e Biblioteca
+## Framework e Biblioteca
 
 ## Framework
 
@@ -11,6 +11,7 @@ As funções do framework têm uma grande variedade de parâmetros, garantindo a
 Aliás, vale ressaltar que a integração entre as diferentes funções dessa ferramenta é uma de suas principais características. Isso significa que as ferramentas são feitas de forma aberta, para que se adaptem a uma grande quantidade de situações. Os pontos providos pelo framework são chamados de frozen spots ou hook points. Já a instanciação e a personalização criadas pelo desenvolvedor são denominadas de host spots.
 
 ### _Vantagens na utilização de Frameworks_
+
 1. Eficiência
 2. Custo
 3. Apoio Técnico
@@ -18,14 +19,15 @@ Aliás, vale ressaltar que a integração entre as diferentes funções dessa fe
 5. Integração
 6. Usabilidade
 
-
 ### _Principais modelos de Framework_
+
 - Boostrap
 - Springboot
 - Cordova
 - Angular
 
-## As bibliotecas.
+## As bibliotecas
+
 Biblioteca, Library ou lib, é um recurso extremamente utilizado no universo da programação e sua ideia é compartilhar soluções por meio de funções ou métodos pré estabelecidos, facilitanto o uso de determinada linguagem para o desenvolvimento. O conceito de biblioteca e Framework comumente se confundem. Porém, uma biblioteca é pensada para trabalhar de forma independente de onde será implementada e o Framework engloba várias bibliotecas.
 
 ### _Modelos de Biblioteca_
@@ -34,13 +36,13 @@ Biblioteca, Library ou lib, é um recurso extremamente utilizado no universo da 
 - Jar
 - JQuery
 
-#### Fontes:
+#### Fontes
 
 <https://gaea.com.br/entenda-o-que-e-framework/>
 
 <https://tableless.github.io/iniciantes/manual/js/o-que-framework.html>
 
-<https://www.youtube.com/watch?v=2zqzzTnfa0E> 
+<https://www.youtube.com/watch?v=2zqzzTnfa0E>
 
 <https://www.opensoft.pt/6-vantagens-da-utilizacao-de-frameworks/>
 
