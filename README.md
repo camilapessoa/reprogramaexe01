@@ -1,8 +1,8 @@
 # Exercício Reprograma 01
 
-## Framework e Biblioteca
+## :computer: Framework e Biblioteca
 
-## Framework
+## :open_file_folder: Framework
 
 ![Alt Text](https://www.hostgator.com.br/blog/wp-content/uploads/2019/11/php-frameworks-5-opcoes-voce-precisa-conhecer-blog-v01.png)
 
@@ -28,7 +28,7 @@ Aliás, vale ressaltar que a integração entre as diferentes funções dessa fe
 - Cordova
 - Angular
 
-## As bibliotecas
+## :open_file_folder: As bibliotecas
 
 ![Alt Text](https://ogimg.infoglobo.com.br/in/22092881-59d-5c6/FT1086A/652/Biblioteca-Tianjin-Binhai01.jpg?posicaoFoto1)
 
@@ -40,7 +40,7 @@ Biblioteca, Library ou lib, é um recurso extremamente utilizado no universo da 
 - Jar
 - JQuery
 
-## Agora vamos estudar!
+## :books: Agora vamos estudar!
 
 ![Alt Text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0c297fae-db93-4430-9b87-f6ebc2d2e9e3/dcg6eln-7f8ffe38-5598-4bce-bfe9-b87c6493aa17.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMGMyOTdmYWUtZGI5My00NDMwLTliODctZjZlYmMyZDJlOWUzXC9kY2c2ZWxuLTdmOGZmZTM4LTU1OTgtNGJjZS1iZmU5LWI4N2M2NDkzYWExNy5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.fhijuPLY6Xh5X-OjxEtwjp3QS_-489SQE1_ujZUXtnA)
 
