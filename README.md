@@ -34,4 +34,16 @@ Biblioteca, Library ou lib, é um recurso extremamente utilizado no universo da 
 - Jar
 - JQuery
 
+#### Fontes:
 
+https://gaea.com.br/entenda-o-que-e-framework/
+
+
+https://tableless.github.io/iniciantes/manual/js/o-que-framework.html
+
+
+https://www.youtube.com/watch?v=2zqzzTnfa0E 
+
+https://www.opensoft.pt/6-vantagens-da-utilizacao-de-frameworks/
+
+https://becode.com.br/framework-biblioteca-api-entenda-as-diferencas/
